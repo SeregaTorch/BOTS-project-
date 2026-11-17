@@ -1,0 +1,5 @@
+шестерню для 3д печати взял с сайта printables
+https://www.printables.com/model/28314-lego-technic-compatible-gears-with-custom-sizes/files
+шестерню для моторчика модифицировал, подогнав отверстие, возможно зря.
+моторчик взял аналогичный моему с сайта grabcad
+https://grabcad.com/library/jga25-370-dc-motor-1
